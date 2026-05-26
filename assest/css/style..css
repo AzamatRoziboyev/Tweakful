@@ -63,4 +63,55 @@ header .uch button a {
 }
 /* !==========main-1========== */
 /* !========================== */
+.main-1 {
+    width: 1200px;
+    height: 549px;
+    border: 1px solid red;
+    margin: auto;
+}
+.main-1 .teks {
+    width: 635px;
+    height: 549px;
+    border: 1px solid black;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+}
+.main-1 .teks .h1 {
+    width: 635px;
+    height: 216px;
+    border: 1px solid black;
+
+}
+.main-1 .teks .h1 h1 {
+    font-size: 65px;
+}
+.main-1 .teks .p {
+    width: 320px;
+    height: 90px;
+    border: 1px solid black;
+}
+.main-1 .teks .button {
+    width: 480px;
+    height: 56px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-1 .teks .button p {
+    width: 210px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+}
+.main-1 .teks .button button {
+     width: 198px;
+    height: 56px;
+    border: none;
+    background-color: #2E4FD7;
+    color: white;
+    font-size: 20px;
+    border-radius: 4px;
+}
 
