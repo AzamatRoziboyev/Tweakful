@@ -7,7 +7,6 @@
 header {
     width: 1440px;
     height: 80px;
-    border: 1px solid black;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -21,7 +20,6 @@ header a {
 header .bir {
     width: 168px;
     height: 38px;
-    border: 1px solid red;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -35,3 +33,31 @@ header .bir a {
     font-weight: 800;
 }
 /* *=======ikki======== */
+header .ikki {
+    width: 388px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header .ikki a {
+    font-size: 20px;
+
+}
+/** =======uch========== */
+header .uch {
+    width: 172px;
+    height: 32px;
+}
+header .uch button {
+    width: 172px;
+    height: 32px;
+    border: none;
+    background-color: #2E4FD7;
+    color: white;
+    font-size: 15px;
+}
+header .uch button a {
+    color: white;
+    margin-right: 10px;
+}
