@@ -212,3 +212,58 @@ header .uch button a {
     border: none;
     border-radius: 5px;
 }
+/* !==========main-3========== */
+/* !========================== */
+.main-3 {
+    width: 1110px;
+    height: 461px;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 100px;
+}
+.main-3 .tect {
+    width: 668px;
+    height: 62px;
+    border: 1px solid black;
+    font-size: 55px;
+}
+.main-3 .time {
+    width: 1110px;
+    height: 94px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.main-3 .time .lorem {
+    width: 540px;
+    height: 94px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+.main-3 .time .lorem .rasm {
+    width: 72px;
+    height: 72px;
+}
+.main-3 .time .lorem .rasm img {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+}
+.main-3 .time .lorem .yozu {
+    width: 428px;
+    height: 94px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.main-3 .time .lorem .yozu p {
+    font-size: 25px;
+    font-weight: 900;
+}
+.main-3 .time .lorem .yozu small {
+    font-size: 20px;
+    color: gray;
+}
