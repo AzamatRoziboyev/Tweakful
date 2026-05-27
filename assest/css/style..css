@@ -163,9 +163,8 @@ header .uch button a {
 .main-2 {
     width: 1114px;
     height: 367px;
-    border: 1px solid red;
     margin: auto;
-    margin-top: 170px;
+    margin-top: 270px;
     display: flex;
     justify-content: space-between;
 }
@@ -251,9 +250,8 @@ header .uch button a {
 .main-3 {
     width: 1110px;
     height: 361px;
-    border: 1px solid red;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 200px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
