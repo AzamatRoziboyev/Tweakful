@@ -135,3 +135,61 @@ header .uch button a {
     height: 549px;
     border-radius: 5px;
 }
+/* !==========main-2========== */
+/* !========================== */
+.main-2 {
+    width: 1114px;
+    height: 367px;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.main-2 .first {
+    width: 410px;
+    height: 367px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-2 .first .first1 {
+    width: 408px;
+    height: 89px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.main-2 .first .first1 .i {
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+    background-color: #E7EBFC;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #2E4FD7;
+}
+.main-2 .first .first1 .text {
+    width: 330px;
+    height: 89px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.main-2 .first .first1 .text h2 {
+    font-size: 30px;
+}
+.main-2 .first .first1 .text small {
+    font-size: 17px;
+    color: gray;
+}
+/* *==========Learn============= */
+.main-2 .learn {
+    width: 540px;
+    height: 346px;
+    border: 1px solid black;
+}
