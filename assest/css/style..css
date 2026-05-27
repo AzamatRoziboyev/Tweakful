@@ -4,6 +4,7 @@
     box-sizing: border-box;
     transition: 1s;
 }
+
 header {
     width: 1440px;
     height: 80px;
@@ -13,10 +14,12 @@ header {
     align-items: center;
 
 }
+
 header a {
     text-decoration: none;
     color: black;
 }
+
 header .bir {
     width: 168px;
     height: 38px;
@@ -24,14 +27,17 @@ header .bir {
     align-items: center;
     justify-content: space-around;
 }
+
 header .bir img {
     width: 38px;
     height: 38px;
 }
+
 header .bir a {
     font-size: 25px;
     font-weight: 800;
 }
+
 /* *=======ikki======== */
 header .ikki {
     width: 388px;
@@ -40,15 +46,18 @@ header .ikki {
     align-items: center;
     justify-content: space-between;
 }
+
 header .ikki a {
     font-size: 20px;
 
 }
+
 /** =======uch========== */
 header .uch {
     width: 172px;
     height: 32px;
 }
+
 header .uch button {
     width: 172px;
     height: 32px;
@@ -58,10 +67,12 @@ header .uch button {
     font-size: 15px;
     border-radius: 6px;
 }
+
 header .uch button a {
     color: white;
     margin-right: 10px;
 }
+
 /* !==========main-1========== */
 /* !========================== */
 .main-1 {
@@ -72,6 +83,7 @@ header .uch button a {
     justify-content: space-between;
     margin-top: 70px;
 }
+
 .main-1 .teks {
     width: 635px;
     height: 549px;
@@ -79,18 +91,22 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-1 .teks .h1 {
     width: 635px;
     height: 216px;
 
 }
+
 .main-1 .teks .h1 h1 {
     font-size: 65px;
 }
+
 .main-1 .teks .p {
     width: 320px;
     height: 90px;
 }
+
 .main-1 .teks .button {
     width: 480px;
     height: 56px;
@@ -98,14 +114,16 @@ header .uch button a {
     justify-content: space-between;
     align-items: center;
 }
+
 .main-1 .teks .button p {
     width: 210px;
     height: 52px;
     display: flex;
     align-items: center;
 }
+
 .main-1 .teks .button button {
-     width: 198px;
+    width: 198px;
     height: 56px;
     border: none;
     background-color: #2E4FD7;
@@ -113,6 +131,7 @@ header .uch button a {
     font-size: 20px;
     border-radius: 4px;
 }
+
 .main-1 .teks .rasmlar {
     width: 480px;
     height: 41px;
@@ -120,21 +139,25 @@ header .uch button a {
     justify-content: space-between;
     align-items: center;
 }
+
 .main-1 .teks .rasmlar img {
     width: 110px;
     height: 41px;
 
 }
+
 /* *=======img========== */
 .main-1 .img {
     width: 480px;
     height: 549px;
-} 
+}
+
 .main-1 .img img {
     width: 480px;
     height: 549px;
     border-radius: 5px;
 }
+
 /* !==========main-2========== */
 /* !========================== */
 .main-2 {
@@ -146,6 +169,7 @@ header .uch button a {
     display: flex;
     justify-content: space-between;
 }
+
 .main-2 .first {
     width: 410px;
     height: 367px;
@@ -153,13 +177,15 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-2 .first .first1 {
     width: 408px;
     height: 89px;
     display: flex;
     justify-content: space-between;
-    
+
 }
+
 .main-2 .first .first1 .i {
     width: 54px;
     height: 54px;
@@ -171,6 +197,7 @@ header .uch button a {
     align-items: center;
     color: #2E4FD7;
 }
+
 .main-2 .first .first1 .text {
     width: 330px;
     height: 89px;
@@ -179,13 +206,16 @@ header .uch button a {
     justify-content: space-between;
 
 }
+
 .main-2 .first .first1 .text h2 {
     font-size: 30px;
 }
+
 .main-2 .first .first1 .text small {
     font-size: 17px;
     color: gray;
 }
+
 /* *==========Learn============= */
 .main-2 .learn {
     width: 540px;
@@ -194,15 +224,18 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-2 .learn h3 {
     font-size: 54px;
 }
+
 .main-2 .learn div {
     width: 445px;
     height: 60px;
     font-size: 22px;
     color: gray;
 }
+
 .main-2 .learn button {
     width: 213px;
     height: 56px;
@@ -212,57 +245,65 @@ header .uch button a {
     border: none;
     border-radius: 5px;
 }
+
 /* !==========main-3========== */
 /* !========================== */
 .main-3 {
     width: 1110px;
-    height: 461px;
+    height: 361px;
     border: 1px solid red;
     margin: auto;
     margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+
 .main-3 .tect {
     width: 668px;
     height: 62px;
-    border: 1px solid black;
     font-size: 55px;
 }
+
 .main-3 .time {
     width: 1110px;
     height: 94px;
-    border: 1px solid black;
     display: flex;
     justify-content: space-between;
 }
+
 .main-3 .time .lorem {
     width: 540px;
     height: 94px;
-    border: 2px solid red;
     display: flex;
     justify-content: space-between;
 }
+
 .main-3 .time .lorem .rasm {
     width: 72px;
     height: 72px;
 }
+
 .main-3 .time .lorem .rasm img {
     width: 72px;
     height: 72px;
     border-radius: 50%;
 }
+
 .main-3 .time .lorem .yozu {
     width: 428px;
     height: 94px;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 
 }
+
 .main-3 .time .lorem .yozu p {
     font-size: 25px;
     font-weight: 900;
 }
+
 .main-3 .time .lorem .yozu small {
     font-size: 20px;
     color: gray;
