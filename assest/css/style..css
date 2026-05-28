@@ -306,6 +306,7 @@ header .uch button a {
     font-size: 20px;
     color: gray;
 }
+
 /* !==========main-4=========== */
 /* !=========================== */
 .main-4 {
@@ -319,6 +320,7 @@ header .uch button a {
     align-items: center;
     padding-left: 70px;
 }
+
 .main-4 .birinchi {
     width: 588px;
     height: 465px;
@@ -326,53 +328,63 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-4 .birinchi h4 {
     width: 572px;
     height: 52px;
     font-size: 42px;
 }
+
 .main-4 .birinchi p {
     width: 520px;
     height: 260px;
     font-size: 42px;
 }
+
 .main-4 .birinchi .read {
     width: 233px;
     height: 57px;
 }
+
 .main-4 .birinchi .read span {
     display: block;
     color: #2E4FD7;
     font-size: 18px;
 }
+
 .main-4 .birinchi .nuqta {
     width: 26px;
     height: 6px;
     display: flex;
     justify-content: space-between;
 }
+
 .main-4 .birinchi .nuqta .div1 {
     width: 6px;
     height: 6px;
     background-color: #2E4FD7;
     border-radius: 50%;
 }
+
 .main-4 .birinchi .nuqta .div2 {
     width: 6px;
     height: 6px;
     background-color: #B4B4B4;
     border-radius: 50%;
 }
+
 /* *==========ikkinchi========= */
 .main-4 .ikkinchi {
     width: 380px;
     height: 420px;
 }
+
 .main-4 .ikkinchi img {
     width: 380px;
     height: 420px;
     border-radius: 5px;
 }
+
 /* !=======main-5========== */
 /* !======================= */
 .main-5 {
@@ -384,17 +396,20 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-5 h5 {
     width: 730px;
     height: 52px;
     font-size: 50px;
 }
+
 .main-5 .ideate {
     width: 1110px;
     height: 162px;
     display: flex;
     justify-content: space-between;
 }
+
 .main-5 .ideate .box {
     width: 255px;
     height: 162px;
@@ -402,6 +417,7 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-evenly;
 }
+
 .main-5 .ideate .box .divlar {
     width: 231px;
     height: 24px;
@@ -409,29 +425,32 @@ header .uch button a {
     justify-content: space-between;
     align-items: center;
 }
+
 .main-5 .ideate .box .divlar .dumoloq {
     width: 24px;
     height: 24px;
     border-radius: 50%;
     background-color: #2E4FD7;
 }
+
 .main-5 .ideate .box .divlar .chiziq {
-   width: 183px;
-   height: 0.5px;
-   background-color: gray;
-   
+    width: 183px;
+    height: 0.5px;
+    background-color: gray;
+
 }
+
 .main-5 .ideate .box .yoozu {
     width: 255px;
     height: 90px;
 }
+
 .main-5 .ideate .box .yoozu p {
     font-size: 35px;
     font-weight: 700;
-} 
+}
+
 .main-5 .ideate .box .yoozu span {
     font-size: 20px;
     color: gray;
 }
-
-
