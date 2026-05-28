@@ -306,3 +306,60 @@ header .uch button a {
     font-size: 20px;
     color: gray;
 }
+/* !==========main-4=========== */
+/* !=========================== */
+.main-4 {
+    width: 1110px;
+    height: 700px;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 200px;
+    background-color: #E7EBFC;
+    display: flex;
+    align-items: center;
+}
+.main-4 .birinchi {
+    width: 588px;
+    height: 465px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-4 .birinchi h4 {
+    width: 572px;
+    height: 52px;
+    font-size: 42px;
+}
+.main-4 .birinchi p {
+    width: 520px;
+    height: 260px;
+    font-size: 42px;
+}
+.main-4 .birinchi .read {
+    width: 233px;
+    height: 57px;
+}
+.main-4 .birinchi .read span {
+    display: block;
+    color: #2E4FD7;
+    font-size: 18px;
+}
+.main-4 .birinchi .nuqta {
+    width: 26px;
+    height: 6px;
+    display: flex;
+    justify-content: space-between;
+}
+.main-4 .birinchi .nuqta .div1 {
+    width: 6px;
+    height: 6px;
+    background-color: #2E4FD7;
+    border-radius: 50%;
+}
+.main-4 .birinchi .nuqta .div2 {
+    width: 6px;
+    height: 6px;
+    background-color: #B4B4B4;
+    border-radius: 50%;
+}
