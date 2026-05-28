@@ -311,17 +311,17 @@ header .uch button a {
 .main-4 {
     width: 1110px;
     height: 700px;
-    border: 1px solid red;
     margin: auto;
     margin-top: 200px;
     background-color: #E7EBFC;
     display: flex;
+    gap: 70px;
     align-items: center;
+    padding-left: 70px;
 }
 .main-4 .birinchi {
     width: 588px;
     height: 465px;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -362,4 +362,14 @@ header .uch button a {
     height: 6px;
     background-color: #B4B4B4;
     border-radius: 50%;
+}
+/* *==========ikkinchi========= */
+.main-4 .ikkinchi {
+    width: 380px;
+    height: 420px;
+}
+.main-4 .ikkinchi img {
+    width: 380px;
+    height: 420px;
+    border-radius: 5px;
 }
