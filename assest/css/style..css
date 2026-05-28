@@ -377,28 +377,27 @@ header .uch button a {
 /* !======================= */
 .main-5 {
     width: 1110px;
-    height: 300px;
-    border: 1px solid red;
+    height: 250px;
     margin: auto;
     margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .main-5 h5 {
     width: 730px;
     height: 52px;
-    border: 1px solid black;
     font-size: 50px;
 }
 .main-5 .ideate {
     width: 1110px;
     height: 162px;
-    border: 1px solid black;
     display: flex;
     justify-content: space-between;
 }
 .main-5 .ideate .box {
     width: 255px;
     height: 162px;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -406,7 +405,6 @@ header .uch button a {
 .main-5 .ideate .box .divlar {
     width: 231px;
     height: 24px;
-    border: 1px solid black;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -426,7 +424,6 @@ header .uch button a {
 .main-5 .ideate .box .yoozu {
     width: 255px;
     height: 90px;
-    border: 1px solid black;
 }
 .main-5 .ideate .box .yoozu p {
     font-size: 35px;
