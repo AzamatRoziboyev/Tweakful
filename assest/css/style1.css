@@ -354,3 +354,233 @@ header .uch button a {
     height: 420px;
     border-radius: 5px;
 }
+/* !========main-5========= */
+/* !======================= */
+.main-5 {
+    width: 1110px;
+    height: 350px;
+    margin: auto;
+    margin-top: 150px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.main-5 h3 {
+    width: 730px;
+    height: 104px;
+    font-size: 48px;
+}
+.main-5 .box2 {
+    width: 1110px;
+    height: 210px;
+    display: flex;
+    justify-content: space-between;
+}
+.main-5 .box2 .ideate {
+    width: 255px;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.main-5 .box2 .ideate .img {
+    width: 252px;
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-5 .box2 .ideate .img .r1 {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+}
+.main-5 .box2 .ideate .img .r2 {
+    width: 164px;
+    height: 16px;
+
+}
+.main-5 .box2 .ideate .text {
+    width: 255px;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-5 .box2 .ideate .text p {
+    font-size: 30px;
+}
+.main-5 .box2 .ideate .text  span {
+    font-size: 17px ;
+}
+/* !=========main-6========= */
+/* !======================== */
+.main-6 {
+    width: 1440px;
+    height: 660px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    color: white;
+}
+
+.main-6 h1 {
+    width: 920px;
+    height: 124px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.main-6 p {
+    width: 826px;
+    height: 56px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.main-6 button {
+    width: 198px;
+    height: 56px;
+    background-color: #2E4FD7;
+    border: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+.main-6 div {
+    width: 1110px;
+    height: 2px;
+    background-color: gray;
+}
+
+.main-6 img {
+    width: 942px;
+    height: 43px;
+
+}
+/* !=========footer======= */
+/* !====================== */
+footer {
+    width: 1440px;
+    height: 408px;
+    background-color: #052825;
+    color: white;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+footer .foter {
+    width: 1170px;
+    height: 294px;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+footer .foter .about {
+    width: 1169px;
+    height: 196px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+footer .foter .about h5 {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+/* *=======contact======== */
+footer .foter .about .contact {
+    width: 1169px;
+    height: 139px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* *=========box1======== */
+.foter .about .contact .box1 {
+    width: 423px;
+    height: 139px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.foter .about .contact .box1 p {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.foter .about .contact .box1 span {
+    font-size: 15px;
+}
+
+.foter .about .contact .box1 div {
+    width: 116px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+}
+
+/* *==========box2======= */
+.foter .about .contact .box2 {
+    width: 549px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.foter .about .contact .box2 .div3 {
+    width: 549px;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px;
+}
+
+.foter .about .contact .box2 .div4 {
+    width: 449px;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px;
+}
+
+/* *======choziq===== */
+.foter .chiziq1 {
+    width: 1170px;
+    height: 1.5px;
+    background-color: gray;
+}
+
+.foter .low {
+    width: 1170px;
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.foter .low p {
+    width: 387px;
+    height: 44px;
+}
+

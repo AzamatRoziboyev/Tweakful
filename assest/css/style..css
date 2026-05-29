@@ -511,7 +511,6 @@ header .uch button a {
 footer {
     width: 1440px;
     height: 408px;
-    border: 1px solid black;
     background-color: #052825;
     color: white;
     margin: auto;
