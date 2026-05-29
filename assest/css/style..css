@@ -501,3 +501,28 @@ header .uch button a {
     height: 43px;
 
 }
+/* !============footer========== */
+/* !============================ */
+footer {
+    width: 1440px;
+    height: 408px;
+    border: 1px solid black;
+    background-color: #052825;
+    color: white;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+footer .foter {
+    width: 1170px;
+    height: 294px;
+    border: 1px solid red;
+    margin-top: 70px;
+    
+}
+footer .foter .about {
+        
+}
