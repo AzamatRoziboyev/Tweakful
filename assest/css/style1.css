@@ -174,10 +174,48 @@ header .uch button a {
     width: 540px;
     height: 378px;
     border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
-.main-2 .one h1 {
+.main-2 .one .h1 h1 {
     width: 335px;
     height: 52px;
-    border: 2px solid black;
     font-size: 45px;
+}
+.main-2 .one .h1 {
+    width: 540px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-2 .one .h1 p {
+    font-size: 22px;
+}
+.main-2 .one .box {
+    width: 488px;
+    height: 162px;
+    display: flex;
+    justify-content: space-between;
+}
+.main-2 .one .box .span {
+    width: 203px;
+    height: 162px;
+}
+.main-2 .one .box .span .for {
+    width: 111px;
+    height: 82px;
+}
+.main-2 .one .box .span .for span {
+    font-size: 65px;
+    font-weight: 900;
+}
+.main-2 .one .box .span .for small {
+    font-size: 45px;
+}
+.main-2 .one .box .span .p {
+    width: 203px;
+    height: 78px;
+    font-size: 17px;
 }
