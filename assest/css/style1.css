@@ -169,11 +169,14 @@ header .uch button a {
     margin: auto;
     margin-top: 100px;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
 }
 .main-2 .one {
     width: 540px;
     height: 378px;
-    border: 1px solid white;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -218,4 +221,15 @@ header .uch button a {
     width: 203px;
     height: 78px;
     font-size: 17px;
+}
+/* *========two======= */
+.main-2 .two {
+    width: 530px;
+    height: 350px;
+
+}
+.main-2 .two img {
+    width: 530px;
+    height: 350px;
+    border-radius: 4px;
 }
