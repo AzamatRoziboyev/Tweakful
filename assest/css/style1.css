@@ -165,7 +165,6 @@ header .uch button a {
 .main-2 {
     width: 1440px;
     height: 600px;
-    border: 1px solid red;
     margin: auto;
     margin-top: 100px;
     color: white;
@@ -232,4 +231,126 @@ header .uch button a {
     width: 530px;
     height: 350px;
     border-radius: 4px;
+}
+/* !========main-3======== */
+/* !====================== */
+.main-3 {
+    width: 1440px;
+    height: 800px;
+    margin: auto;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 130px;
+}
+.main-3 h2 {
+    width: 540px;
+    height: 124px;
+    font-size: 55px;
+}
+.main-3 .box1 {
+    width: 620px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-3 .first {
+    width: 610px;
+    height: 400px;
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+}
+.main-3 .first  div {
+    width: 200px;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.main-3 .first div i {
+    font-size: 30px;
+}
+.main-3 .first div p {
+    font-size: 25px;
+}
+.main-3 .first div small {
+    font-size: 15px;
+}
+/* !============main-4========= */
+/* !=========================== */
+.main-4 {
+    width: 1110px;
+    height: 700px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: #E7EBFC;
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    padding-left: 70px;
+}
+
+.main-4 .birinchi {
+    width: 588px;
+    height: 465px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.main-4 .birinchi h4 {
+    width: 572px;
+    height: 52px;
+    font-size: 42px;
+}
+
+.main-4 .birinchi p {
+    width: 520px;
+    height: 260px;
+    font-size: 42px;
+}
+
+.main-4 .birinchi .read {
+    width: 233px;
+    height: 57px;
+}
+
+.main-4 .birinchi .read span {
+    display: block;
+    color: #2E4FD7;
+    font-size: 18px;
+}
+
+.main-4 .birinchi .nuqta {
+    width: 26px;
+    height: 6px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-4 .birinchi .nuqta .div1 {
+    width: 6px;
+    height: 6px;
+    background-color: #2E4FD7;
+    border-radius: 50%;
+}
+
+.main-4 .birinchi .nuqta .div2 {
+    width: 6px;
+    height: 6px;
+    background-color: #B4B4B4;
+    border-radius: 50%;
+}
+
+/* *==========ikkinchi========= */
+.main-4 .ikkinchi {
+    width: 380px;
+    height: 420px;
+}
+
+.main-4 .ikkinchi img {
+    width: 380px;
+    height: 420px;
+    border-radius: 5px;
 }
