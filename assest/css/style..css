@@ -533,3 +533,24 @@ footer .foter .about .contact {
     height: 139px;
     border: 1px solid red;
 }
+.foter .about .contact .box1 {
+    width: 423px;
+    height: 139px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.foter .about .contact .box1 p {
+    font-size: 30px;
+    font-weight: 900;
+}
+.foter .about .contact .box1 span {
+    font-size: 18px;
+}
+.foter .about .contact .box1  div {
+    width: 116px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+}
