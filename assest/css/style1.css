@@ -4,9 +4,11 @@
     box-sizing: border-box;
     transition: 1s;
 }
+
 body {
     background-color: #052825;
 }
+
 header {
     width: 100%;
     height: 80px;
@@ -75,6 +77,7 @@ header .uch button a {
     color: white;
     margin-right: 10px;
 }
+
 /* !===========main-1========= */
 /* !========================== */
 .main-1 {
@@ -160,6 +163,7 @@ header .uch button a {
     height: 549px;
     border-radius: 5px;
 }
+
 /* !===========main-2========== */
 /* !=========================== */
 .main-2 {
@@ -173,6 +177,7 @@ header .uch button a {
     align-items: center;
     gap: 80px;
 }
+
 .main-2 .one {
     width: 540px;
     height: 378px;
@@ -180,11 +185,13 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-2 .one .h1 h1 {
     width: 335px;
     height: 52px;
     font-size: 45px;
 }
+
 .main-2 .one .h1 {
     width: 540px;
     height: 180px;
@@ -192,46 +199,56 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-2 .one .h1 p {
     font-size: 22px;
 }
+
 .main-2 .one .box {
     width: 488px;
     height: 162px;
     display: flex;
     justify-content: space-between;
 }
+
 .main-2 .one .box .span {
     width: 203px;
     height: 162px;
 }
+
 .main-2 .one .box .span .for {
     width: 111px;
     height: 82px;
 }
+
 .main-2 .one .box .span .for span {
     font-size: 65px;
     font-weight: 900;
 }
+
 .main-2 .one .box .span .for small {
     font-size: 45px;
 }
+
 .main-2 .one .box .span .p {
     width: 203px;
     height: 78px;
     font-size: 17px;
 }
+
 /* *========two======= */
 .main-2 .two {
     width: 530px;
     height: 350px;
 
 }
+
 .main-2 .two img {
     width: 530px;
     height: 350px;
     border-radius: 4px;
 }
+
 /* !========main-3======== */
 /* !====================== */
 .main-3 {
@@ -243,11 +260,13 @@ header .uch button a {
     align-items: center;
     padding-left: 130px;
 }
+
 .main-3 h2 {
     width: 540px;
     height: 124px;
     font-size: 55px;
 }
+
 .main-3 .box1 {
     width: 620px;
     height: 550px;
@@ -255,28 +274,34 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-3 .first {
     width: 610px;
     height: 400px;
     display: grid;
     grid-template-columns: repeat(3, 2fr);
 }
-.main-3 .first  div {
+
+.main-3 .first div {
     width: 200px;
     height: 170px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
 }
+
 .main-3 .first div i {
     font-size: 30px;
 }
+
 .main-3 .first div p {
     font-size: 25px;
 }
+
 .main-3 .first div small {
     font-size: 15px;
 }
+
 /* !============main-4========= */
 /* !=========================== */
 .main-4 {
@@ -354,6 +379,7 @@ header .uch button a {
     height: 420px;
     border-radius: 5px;
 }
+
 /* !========main-5========= */
 /* !======================= */
 .main-5 {
@@ -365,19 +391,22 @@ header .uch button a {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
+
 }
+
 .main-5 h3 {
     width: 730px;
     height: 104px;
     font-size: 48px;
 }
+
 .main-5 .box2 {
     width: 1110px;
     height: 210px;
     display: flex;
     justify-content: space-between;
 }
+
 .main-5 .box2 .ideate {
     width: 255px;
     height: 210px;
@@ -385,6 +414,7 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-evenly;
 }
+
 .main-5 .box2 .ideate .img {
     width: 252px;
     height: 72px;
@@ -392,16 +422,19 @@ header .uch button a {
     justify-content: space-between;
     align-items: center;
 }
+
 .main-5 .box2 .ideate .img .r1 {
     width: 72px;
     height: 72px;
     border-radius: 50%;
 }
+
 .main-5 .box2 .ideate .img .r2 {
     width: 164px;
     height: 16px;
 
 }
+
 .main-5 .box2 .ideate .text {
     width: 255px;
     height: 90px;
@@ -409,12 +442,15 @@ header .uch button a {
     flex-direction: column;
     justify-content: space-between;
 }
+
 .main-5 .box2 .ideate .text p {
     font-size: 30px;
 }
-.main-5 .box2 .ideate .text  span {
-    font-size: 17px ;
+
+.main-5 .box2 .ideate .text span {
+    font-size: 17px;
 }
+
 /* !=========main-6========= */
 /* !======================== */
 .main-6 {
@@ -465,6 +501,7 @@ header .uch button a {
     height: 43px;
 
 }
+
 /* !=========footer======= */
 /* !====================== */
 footer {
@@ -583,4 +620,3 @@ footer .foter .about .contact {
     width: 387px;
     height: 44px;
 }
-
