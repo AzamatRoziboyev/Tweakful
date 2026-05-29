@@ -524,5 +524,12 @@ footer .foter {
     
 }
 footer .foter .about {
-        
+    width: 1169px;
+    height: 196px;
+    border: 1px solid white;
+}
+footer .foter .about .contact {
+    width: 1169px;
+    height: 139px;
+    border: 1px solid red;
 }
