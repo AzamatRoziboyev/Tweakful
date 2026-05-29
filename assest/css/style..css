@@ -527,26 +527,35 @@ footer .foter .about {
     width: 1169px;
     height: 196px;
     border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+footer .foter .about h5 {
+    font-size: 35px;
+    font-weight: 900;
+}
+/* *=======contact======== */
 footer .foter .about .contact {
     width: 1169px;
     height: 139px;
-    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
 }
+/* *=========box1======== */
 .foter .about .contact .box1 {
     width: 423px;
     height: 139px;
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 .foter .about .contact .box1 p {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 900;
 }
 .foter .about .contact .box1 span {
-    font-size: 18px;
+    font-size: 15px;
 }
 .foter .about .contact .box1  div {
     width: 116px;
@@ -554,3 +563,29 @@ footer .foter .about .contact {
     display: flex;
     align-items: center;
 }
+/* *==========box2======= */
+.foter .about .contact .box2 {
+    width: 549px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+}
+.foter .about .contact .box2 .div3 {
+    width: 549px;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px ;
+}
+.foter .about .contact .box2 .div4 {
+    width: 449px;
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px;
+}
+
