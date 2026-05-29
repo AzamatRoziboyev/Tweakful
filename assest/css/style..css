@@ -461,7 +461,6 @@ header .uch button a {
     width: 1440px;
     height: 660px;
     background-color: #E7EBFC;
-    border: 1px solid red;
     margin: auto;
     margin-top: 50px;
     display: flex;
@@ -519,14 +518,15 @@ footer {
 footer .foter {
     width: 1170px;
     height: 294px;
-    border: 1px solid red;
     margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     
 }
 footer .foter .about {
     width: 1169px;
     height: 196px;
-    border: 1px solid white;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -588,4 +588,20 @@ footer .foter .about .contact {
     align-items: center;
     font-size: 17px;
 }
-
+/* *======choziq===== */
+.foter .chiziq1 {
+    width: 1170px;
+    height: 1.5px;
+    background-color: gray;
+}
+.foter .low {
+    width: 1170px;
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.foter .low p {
+    width: 387px;
+    height: 44px;
+}
